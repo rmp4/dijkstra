@@ -1,4 +1,4 @@
-module github.com/RyanCarrier/dijkstra
+module github.com/rmp4/dijkstra
 
 go 1.13
 
